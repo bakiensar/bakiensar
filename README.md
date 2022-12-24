@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakiensar&label=Profile%20views&color=0e75b6&style=flat" alt="bakiensar" /> </p>
 
-- 🌱 I’m currently learning **React, Redux, Redux/Toolkit **
+- 🌱 I’m currently learning **React, Redux, Redux/Toolkit, TypeScript **
 
 - 👨‍💻 All of my projects are available at [("https://www.linkedin.com/in/baki-akt%C3%BCrk-033141252/")](https://www.linkedin.com/in/baki-akt%C3%BCrk-033141252/)
 
